@@ -1,0 +1,23 @@
+D:\al kolia\second year\second semester\data base\Project v2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\al kolia\second year\second semester\data base\Project v2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\al kolia\second year\second semester\data base\Project v2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\al kolia\second year\second semester\data base\Project v2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\al kolia\second year\second semester\data base\Project v2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\al kolia\second year\second semester\data base\Project v2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\al kolia\second year\second semester\data base\Project v2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\al kolia\second year\second semester\data base\Project v2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\al kolia\second year\second semester\data base\Project v2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\FCAI\2nd\second semester\database\DataBase_project_GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\FCAI\2nd\second semester\database\DataBase_project_GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delet_room2.resources
+F:\FCAI\2nd\second semester\database\DataBase_project_GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\FCAI\2nd\second semester\database\DataBase_project_GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\FCAI\2nd\second semester\database\DataBase_project_GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.update.resources
+F:\FCAI\2nd\second semester\database\DataBase_project_GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\FCAI\2nd\second semester\database\DataBase_project_GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\FCAI\2nd\second semester\database\DataBase_project_GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\FCAI\2nd\second semester\database\DataBase_project_GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\FCAI\2nd\second semester\database\DataBase_project_GUI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\FCAI\2nd\second semester\database\DataBase_project_GUI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\FCAI\2nd\second semester\database\DataBase_project_GUI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\FCAI\2nd\second semester\database\DataBase_project_GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+F:\FCAI\2nd\second semester\database\DataBase_project_GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.selectForm.resources
